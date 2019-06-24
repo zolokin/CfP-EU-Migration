@@ -17,6 +17,7 @@
 
 <p>We invite chapters that deal with any of the following sub-topics along the theme (the list is not exhaustive) both for single country cases and dealing with the EU’s partner regions in general. </p>
 
+
 <p><b>1. Migration/mobility management under the EU's institutional framework: </b></p>
 
 <p>· GAMM's institutional makeup and its transformation </p>
@@ -33,6 +34,7 @@
 
 <p>· Assessing the success of the migration-related projects under the GAMM framework </p>
 
+
 <p><b>2. Strategic cooperation and maximizing the development impact of migration and mobility:</b></p>
 
 <p>· EU’s Education programs for partner countries and their impact </p>
@@ -48,6 +50,7 @@
 <p>· Brain drain and its impact on the EU/partner countries </p>
 
 <p>· Labor migration in and outside of the EU</p>
+
 
 <p><b>3. Norm diffusion and democratization impact of GAMM: </b></p>
 
@@ -67,7 +70,9 @@
 
 <p>· Generation of 'Erasmus' babies: family/marriage migration and norm transfer </p>
 
+
 <p>Please submit one-page abstracts/proposals (500 words, include a note on methods and sources) and a short biographical note (150 words max) to Maryna Shevtsova, Center for European Studies, University of Florida (<a href="mailto:m.shevtsova@ufl.edu" target="_blank">m.shevtsova@ufl.edu</a> ) and Nikoloz Tokhvadze, Freie University Berlin (<a href="mailto:nickniko@zedat.fu-berlin.de" target="_blank">nickniko@zedat.fu-berlin.de</a> ) </p>
+
 
 <p><b>Deadline: August, 1. </b></p>
 
