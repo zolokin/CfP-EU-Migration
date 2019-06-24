@@ -2,11 +2,13 @@
 
 <p><br />
 <b></b></p>
-
+<img src="https://fra.europa.eu/sites/default/files/styles/fra_large/public/shutterstock_381798661_eu_migration_converted.jpg" alt="display this" width=200 height=200>
+<br>
+<br>
 <p><i>KEYWORDS: </i></p>
 
 <p>EU, Migration, European Neighborhood, Mobility Partnerships, Norm transfer, GAMM, MENA, LAC, Africa, India, Trafficking, Remittances.</p>
-
+<br>
 <p>2020 will mark 15 years since the EU launched the <b>Global Approach to Migration and Mobility (GAMM) – </b>an overarching framework of the EU's external migration and asylum policy. The framework defines how the EU conducts its policy dialogues and cooperation with the non-EU countries. The GAMM agenda comprises the objectives ranging from organizing legal migration - to preventing and combatting irregular migration; preventing human trafficking; maximizing the development impact of migration; promoting international protection and more. </p>
 
 <p>GAMM's cooperation frameworks - <i>Mobility Partnership</i> (MP) and <i>Common Agendas for Migration and Mobility</i> (CAMM) prompted further numerous cooperation dialogues and the visa liberalization processes around the globe and particularly in the EU's immediate neighborhood. </p>
@@ -16,8 +18,8 @@
 <p>Furthermore, the aim is to examine how and why the EU influences (if it does) economic, institutional and normative transformations and/or causes backlashes in its Southern and Eastern Neighborhood, in Latin America and Caribbean, and in selected CAMM countries (Ethiopia, Nigeria and India). </p>
 
 <p>We invite chapters that deal with any of the following sub-topics along the theme (the list is not exhaustive) both for single country cases and dealing with the EU’s partner regions in general. </p>
-
-
+<br>
+<br>
 <p><b>1. Migration/mobility management under the EU's institutional framework: </b></p>
 
 <p>· GAMM's institutional makeup and its transformation </p>
