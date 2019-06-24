@@ -1,8 +1,7 @@
 <p><b><i>Call for book chapters for an edited volume on the migration, mobility, and norm transfer in the European Neighborhood (and beyond)</i></b></p>
 
-<p><br />
-<b></b></p>
-<img src="https://github.com/zolokin/CfP-EU-Migration/blob/master/Fotolia_Migration_Resized_web.jpg" alt="display this" class="center" width=200 height=200>
+
+<img src="https://github.com/zolokin/CfP-EU-Migration/blob/master/Fotolia_Migration_Resized_web.jpg" alt="display this" class="center" height=200>
 <br>
 <br>
 <p><i>KEYWORDS: </i></p>
