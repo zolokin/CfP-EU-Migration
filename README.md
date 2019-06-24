@@ -34,7 +34,7 @@
 
 <p>· Assessing the success of the migration-related projects under the GAMM framework </p>
 
-
+<br>
 <p><b>2. Strategic cooperation and maximizing the development impact of migration and mobility:</b></p>
 
 <p>· EU’s Education programs for partner countries and their impact </p>
@@ -51,7 +51,7 @@
 
 <p>· Labor migration in and outside of the EU</p>
 
-
+<br>
 <p><b>3. Norm diffusion and democratization impact of GAMM: </b></p>
 
 <p>· EU's norm diffusion and promotion in partner countries through migration </p>
@@ -70,10 +70,10 @@
 
 <p>· Generation of 'Erasmus' babies: family/marriage migration and norm transfer </p>
 
-
+<br>
 <p>Please submit one-page abstracts/proposals (500 words, include a note on methods and sources) and a short biographical note (150 words max) to Maryna Shevtsova, Center for European Studies, University of Florida (<a href="mailto:m.shevtsova@ufl.edu" target="_blank">m.shevtsova@ufl.edu</a> ) and Nikoloz Tokhvadze, Freie University Berlin (<a href="mailto:nickniko@zedat.fu-berlin.de" target="_blank">nickniko@zedat.fu-berlin.de</a> ) </p>
 
-
+<br>
 <p><b>Deadline: August, 1. </b></p>
 
 <p>Feel free to contact the editors for informal inquiries. </p>
