@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://zolokin.github.io/CfP_EU-Migration" resolutions="1x" timestamp="1561384969728">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://zolokin.github.io/CfP_EU-Migration" resolutions="1x" timestamp="1561388270654">
   <folder name="images">
     <file name="cfp-eu-mobility-favicon.ico" crc="4147334446" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4148915650" ref="index"/>
+    <file name="index.css" crc="254130927" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,5 +14,5 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <file name="index.html" crc="4033926627" seo="true" mt="1561384937242" redirect="true"/>
+  <file name="index.html" crc="3914345874" seo="true" mt="1561388262104" redirect="true"/>
 </manifest>
