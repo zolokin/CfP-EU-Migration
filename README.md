@@ -2,7 +2,7 @@
 
 <p><br />
 <b></b></p>
-<img src="https://fra.europa.eu/sites/default/files/styles/fra_large/public/shutterstock_381798661_eu_migration_converted.jpg" alt="display this" width=200 height=200>
+<img src="https://fra.europa.eu/sites/default/files/styles/fra_large/public/shutterstock_381798661_eu_migration_converted.jpg" alt="display this" class="center" width=200 height=200>
 <br>
 <br>
 <p><i>KEYWORDS: </i></p>
